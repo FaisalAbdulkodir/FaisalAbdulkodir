@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faisal Abdullah
 - 👀 I’m interested in Python, Machine Learning, Reinforcement Learning
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything :v
 - 📫 How to reach me 
 
   <div id="badges">
