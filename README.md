@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faisal Abdullah
-- 👀 I’m interested in Python, Machine Learning, Reinforcement Learning
+- 👀 I’m interested in Python, Machine Learning, NLP
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on everything :v
 - 📫 How to reach me 
